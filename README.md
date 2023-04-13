@@ -4,4 +4,4 @@ The website for "Leisure Square" restaurant has been designed to create an immer
 The Contact Us page is designed to facilitate communication between the restaurant and its customers. It features a comprehensive contact form, a phone number, email address, and an embedded map to help customers easily locate the restaurant. The Menu page is a visual treat, showcasing the restaurant's range of mouth-watering dishes and drinks, along with detailed descriptions and prices.
 
 The Gallery page is a visual feast, featuring high-quality photos of the restaurant's interiors, exteriors, ambiance, and design. It offers visitors a glimpse into the restaurant's style and atmosphere, making them feel more connected to the restaurant even before they arrive. Overall, the website is user-friendly, visually appealing, and informative, reflecting the restaurant's commitment to providing an exceptional dining experience
-# *[click here for live demo](Bhaskar421/Template_for_cafe-LS.github.io)*
+# *[click here for live demo](https://bhaskar421.github.io/Template-for-Cafe-LS/)*
